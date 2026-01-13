@@ -316,6 +316,7 @@ header{
   color: #b79a7c;
   margin-bottom: 60px;
   font-size: 38px;
+ 
 }
 
 .menu-cards{
@@ -389,14 +390,17 @@ footer{
   text-align: center;
   border-top: 1px solid #b79a7c;
   margin-top: 50px;
-  font-size: large;
+  font-size: xx-large;
 
+  #contact{
+    font-size: 25px;
+  }
 
 
 .socials a{
   text-decoration: none;
-  color: #b79a7c;
   margin: 0 5px;
+  color: #b79a7c;
 
 
   a{
